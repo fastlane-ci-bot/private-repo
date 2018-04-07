@@ -1,12 +1,27 @@
 {
   "number": 1,
-  "status": "pending",
+  "status": "success",
   "timestamp": 1523133944,
-  "duration": -1,
+  "duration": 1.508215,
   "sha": "304d242acd65cc720788e0432b8617b7e6dbcd89",
   "artifacts": [
-
+    {
+      "type": "fastlane.verbose.log",
+      "reference": "c32eb6a0-a112-4d12-aff1-69d04e81f691/1/fastlane.verbose.log/fastlane.verbose.log",
+      "provider": {
+        "class_name": "FastlaneCI::LocalArtifactProvider"
+      },
+      "id": "3dee9502-f725-4d27-9ee8-bc55b1e5ee38"
+    },
+    {
+      "type": "fastlane.log",
+      "reference": "c32eb6a0-a112-4d12-aff1-69d04e81f691/1/fastlane.log/fastlane.log",
+      "provider": {
+        "class_name": "FastlaneCI::LocalArtifactProvider"
+      },
+      "id": "30673988-38b3-4687-84cb-7406bce813ca"
+    }
   ],
-  "description": null,
+  "description": "All green",
   "trigger": "manual"
 }
