@@ -14,5 +14,21 @@
         "encrypted_api_token": "Op44UtTLBBb8nVkt1S3eKqsqGIgRcZ9oCTfQRNV/qYFG0DvbEhfqUuZSaYLH\nU5IFeO+O73l6kYXUYZ1yMgQ5ig==\n"
       }
     ]
+  },
+  {
+    "id": "7b21013a-21e3-49bb-9714-7a7c037fbdf9",
+    "email": "maxim@keegan.ru",
+    "password_hash": "$2a$10$soZWD0BzD8NCOtMgMBq6v.BeWZ2ZkDeoV1DO03PrRA/c0e2TwQ/B6",
+    "provider_credentials": [
+      {
+        "id": "44f8a4f1-1461-4568-89a9-b74ce760b2c6",
+        "email": "maxim@keegan.ru",
+        "full_name": null,
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "WZiVPSLmz3vVyVTkssvUqQCUK9MaIX/9o1UUHIhLKW5tqA3oq7Y0zOBUb0nk\nT0GP+OcvtoC4anciokNObQ88QA==\n"
+      }
+    ]
   }
 ]
