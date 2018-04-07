@@ -1,0 +1,18 @@
+[
+  {
+    "id": "60b3f94d-30c7-410e-b4e6-484114fc9b70",
+    "email": "maxim+fastlanebot@keegan.ru",
+    "password_hash": "$2a$10$Rvd7SA0HAOJSQS0Z5L114OJVfMiAu6W4.N4XUU01Zvwv0fleGA5TO",
+    "provider_credentials": [
+      {
+        "id": "b4000cda-e286-4047-8563-5899adf751cc",
+        "email": "maxim+fastlanebot@keegan.ru",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "Op44UtTLBBb8nVkt1S3eKqsqGIgRcZ9oCTfQRNV/qYFG0DvbEhfqUuZSaYLH\nU5IFeO+O73l6kYXUYZ1yMgQ5ig==\n"
+      }
+    ]
+  }
+]
