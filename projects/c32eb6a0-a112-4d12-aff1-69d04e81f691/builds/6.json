@@ -1,12 +1,27 @@
 {
   "number": 6,
-  "status": "pending",
+  "status": "failure",
   "timestamp": 1523218712,
-  "duration": -1,
+  "duration": 3.809652,
   "sha": "9586abd56c6e37aaafefb7f07284353c2b25e60f",
   "artifacts": [
-
+    {
+      "type": "fastlane.verbose.log",
+      "reference": "c32eb6a0-a112-4d12-aff1-69d04e81f691/6/fastlane.verbose.log/fastlane.verbose.log",
+      "provider": {
+        "class_name": "FastlaneCI::LocalArtifactProvider"
+      },
+      "id": "db27010e-eb92-4aa2-92cb-c7705cf7833a"
+    },
+    {
+      "type": "fastlane.log",
+      "reference": "c32eb6a0-a112-4d12-aff1-69d04e81f691/6/fastlane.log/fastlane.log",
+      "provider": {
+        "class_name": "FastlaneCI::LocalArtifactProvider"
+      },
+      "id": "5b89898f-8001-4429-8ff5-bbb5790cb6bf"
+    }
   ],
-  "description": null,
+  "description": "Build failed",
   "trigger": "manual"
 }
