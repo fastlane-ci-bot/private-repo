@@ -1,12 +1,43 @@
 {
   "number": 9,
-  "status": "pending",
+  "status": "success",
   "timestamp": 1523219625,
-  "duration": -1,
+  "duration": 68.502547,
   "sha": "55bccc97afad565214e3c413de4a38b442885ca4",
   "artifacts": [
-
+    {
+      "type": "fastlane.verbose.log",
+      "reference": "c32eb6a0-a112-4d12-aff1-69d04e81f691/9/fastlane.verbose.log/fastlane.verbose.log",
+      "provider": {
+        "class_name": "FastlaneCI::LocalArtifactProvider"
+      },
+      "id": "1d775fce-8ab0-4ea7-a4ce-986e19702e1d"
+    },
+    {
+      "type": "fastlane.log",
+      "reference": "c32eb6a0-a112-4d12-aff1-69d04e81f691/9/fastlane.log/fastlane.log",
+      "provider": {
+        "class_name": "FastlaneCI::LocalArtifactProvider"
+      },
+      "id": "55f5e62f-ae34-4dce-878b-92da2e37ce78"
+    },
+    {
+      "type": "IPA_OUTPUT_PATH",
+      "reference": "c32eb6a0-a112-4d12-aff1-69d04e81f691/9/IPA_OUTPUT_PATH/TestFastline.ipa",
+      "provider": {
+        "class_name": "FastlaneCI::LocalArtifactProvider"
+      },
+      "id": "f05f4616-f087-4e3f-8db9-7abd85f1db22"
+    },
+    {
+      "type": "DSYM_OUTPUT_PATH",
+      "reference": "c32eb6a0-a112-4d12-aff1-69d04e81f691/9/DSYM_OUTPUT_PATH/TestFastline.app.dSYM.zip",
+      "provider": {
+        "class_name": "FastlaneCI::LocalArtifactProvider"
+      },
+      "id": "6646ec46-eeff-44fc-983e-5380dba6b95b"
+    }
   ],
-  "description": null,
+  "description": "All green",
   "trigger": "manual"
 }
